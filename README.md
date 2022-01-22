@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @sainani8897
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi 👋, I'm Sainath
 
-<!---
-sainani8897/sainani8897 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently working as Fullstack Developer (Laravel & Vue.js) 
+
+🔭 I’m currently working on Node Express Biolerplate.
+
+🌱 I’m currently learning Software Design Patterns.
+
+🤔 I’m looking for help with Node Express Biolerplate .
+
+💬 Ask me about PHP, Laravel, Vuejs, git.
+
+📫 How to reach me: @SainathDekonda
