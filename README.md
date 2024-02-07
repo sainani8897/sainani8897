@@ -1,9 +1,12 @@
-# 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices/monorepo architecture.<br><br>
+# 👨‍🏭 About Me:
+🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices/monorepo architecture. and created two Open source Projects 
+<br>
+ 1.Inventory Control (Supply Chain Management)  
+ 2. WikiSkillz (LMS)  <br><br>
 👯 **I’m looking to collaborate on:**  <br>Fullstack Projects<br><br>
 🌱 **I’m currently learning:**  <br>Python - ML  Advanced AWS Services, Node.js, and Mysql.<br><br>
 👨‍🎓 **I’m currently pursing :**  <br>Pursing PG in Data Science for IIIT Bangalore (online). <br><br>  
-💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>
+💬 **Ask me about:**  <br>Python,PHP,Laravel, JavaScript, Node.js, AWS, React, Nextjs, and any general software development questions.<br><br>
 ℹ️ **Need Guidence:** <br>Need Some Guidence for carrer in AI and ML training models and concepts tools required to make a successfull carrer in AI & ML. <br><br>
 
 
